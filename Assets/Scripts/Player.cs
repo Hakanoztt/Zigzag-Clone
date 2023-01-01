@@ -11,6 +11,8 @@ public class Player : MonoBehaviour {
     public GameObject Effect;
     public GameObject forparticle;
     public GameObject barrier;
+
+
     Rigidbody rb;
 
     public float playerSpeed;
